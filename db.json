@@ -1,8 +1,24 @@
 {
-  "people": [
+  "movies": [
     {
       "id": 1,
-      "name": "Anna"
+      "title": "Wizard of Oz",
+      "genre": "musical"
+    },
+    {
+      "id": 2,
+      "title": "Singing in the Rain",
+      "genre": "musical"
+    },
+    {
+      "id": 3,
+      "title": "Gone with the Wind",
+      "genre": "drama"
+    },
+    {
+      "id": 4,
+      "title": "Citizen Kane",
+      "genre": "drama"
     }
   ]
 }
