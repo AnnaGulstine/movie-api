@@ -1,4 +1,8 @@
 {
-  id: 1,
-  name: 'Anna'
+  people: [
+    {
+      id: 1,
+      name: 'Anna'
+    }
+  ]
 }
