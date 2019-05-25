@@ -1,8 +1,8 @@
 {
-  people: [
+  "people": [
     {
-      id: 1,
-      name: 'Anna'
+      "id": 1,
+      "name": "Anna"
     }
   ]
 }
