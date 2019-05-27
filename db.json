@@ -3,23 +3,62 @@
     {
       "id": 1,
       "title": "Wizard of Oz",
-      "genre": "musical"
+      "genre": "musical",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51%2BJTIRO3BL.jpg"
     },
     {
       "id": 2,
       "title": "Singing in the Rain",
-      "genre": "musical"
+      "genre": "musical",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51JJ1-Jbd5L.jpg"
     },
     {
       "id": 3,
       "title": "Gone with the Wind",
-      "genre": "drama"
+      "genre": "drama",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71MOFxKeGTL._SY445_.jpg"
     },
     {
       "id": 4,
       "title": "Citizen Kane",
       "genre": "drama",
       "image": "https://cdn.shopify.com/s/files/1/1416/8662/products/french_citizen_kane_R50s_original_film_art_spo_2000x.jpg?v=1551757818"
+    },
+    {
+      "id": 5,
+      "title": "Meet Me in St. Louis",
+      "genre": "musical",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa846ZQ4cXd-_rLpSR0n4twKNuDODOtlzKbJ7RVsXzfPMV74RbqQ"
+    },
+    {
+      "id": 6,
+      "title": "The Sound of Music",
+      "genre": "musical",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/Sound_of_music.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Breakfast at Tiffany's",
+      "genre": "drama",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51W9Geh7vaL.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Grease",
+      "genre": "musical",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmUyMDEyOTgtZmUwOS00NTdkLThlNzctNTM1ODQ4M2VhMjdhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "West Side Story",
+      "genre": "musical",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51TWshVayLL.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Vertigo",
+      "genre": "drama",
+      "image": "https://movieposters2.com/images/667426-b.jpg"
     }
   ]
 }
